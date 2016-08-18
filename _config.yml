@@ -1,14 +1,8 @@
 layout_spectrum: 0.3680851
 typography_spectrum: 0.2595745
 color:
-  saturation: 0.07603493
-  lightness: 0.8584098
-  brandStrength: 0.5002484
+  saturation: 0.05531915
+  lightness: 1
+  brandStrength: 0.5106383
   rhythmicContrast: 0.0993863
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-name: Stephfour
+name: Fouroclock
